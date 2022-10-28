@@ -27,7 +27,7 @@ Barcelona builds command-line tools for iOS, which Xcode does not support by def
 3. Reopen Xcode, you should be able to build the CLI tools for iOS
 
 ### Building for macOS
-No preparation is neededot build for mcaOS.
+No preparation is needed to build for macOS.
 
 ## Compiling
 
